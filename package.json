@@ -1,0 +1,15 @@
+{
+  "name": "student-records-api",
+  "version": "1.0.0",
+  "description": "RESTful CRUD API for Student Records using Node.js, Express and MongoDB Atlas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^4.22.3",
+    "mongoose": "^8.24.7"
+  }
+}

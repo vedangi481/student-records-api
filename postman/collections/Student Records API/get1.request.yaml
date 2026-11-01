@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: http://localhost:5000/api/students/507f1f77bcf86cd799439011
+method: GET
+order: 3000
